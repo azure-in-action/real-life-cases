@@ -3,8 +3,11 @@ Application security groups enable you to configure network security as a natura
 
 
 <a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fgithub.com%2Fazure-in-action%2Freal-life-cases%2Fblob%2Fmaster%2Fasg-nsg-in-action%2Fazuredeploy.json" target="_blank">
-    <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.png"/>
+    <img src="https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/deploybutton.png"/>
+</a>
+<a href="https://azuredeploy.net/?repository=https%3A%2F%2Fgithub.com%2Fazure-in-action%2Freal-life-cases%2Fblob%2Fmaster%2Fasg-nsg-in-action%2Fazuredeploy.json" target="_blank">
+    <img src="https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/deploybutton.png"/>
 </a>
 <a href="http://armviz.io/#/?load=https://github.com/azure-in-action/real-life-cases/blob/master/asg-nsg-in-action/azuredeploy.json" target="_blank">
-    <img src="https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/visualizebutton.png"/>
+ <img src="https://azurecomcdn.azureedge.net/mediahandler/acomblog/media/Default/blog/deploybutton.png"/>
 </a>
